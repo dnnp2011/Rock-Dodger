@@ -1,0 +1,9 @@
+{
+  "name": "java-script-rock-dodger",
+  "version": "0.1.0",
+  "description": "Build a simple game in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R mocha-multi --reporter-options nyan=-,json=.results.json"
+  }
+}
