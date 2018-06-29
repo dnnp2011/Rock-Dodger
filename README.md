@@ -14,11 +14,11 @@ Rock Dodger is a Javascript game you can play right in your browser. As the name
 
 ## Screenshots
 
-![Start Game](Screenshots/rock-dodger-start-cropped.png?raw=true "Start Game")
+![Start Game](Screenshots/rock-dodger-start.png?raw=true "Start Game")
 
-![Falling Rocks](Screenshots/rock-dodger-falling-cropped.png?raw=true "Falling Rocks")
+![Falling Rocks](Screenshots/rock-dodger-falling.png?raw=true "Falling Rocks")
 
-![Game Over](Screenshots/rock-dodger-you-lose-cropped.png?raw=true "Game Over!")
+![Game Over](Screenshots/rock-dodger-you-lose.png?raw=true "Game Over!")
 
 ## Resources
 
